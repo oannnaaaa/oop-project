@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584212183 source:c:\users\oana\desktop\oop-project\proiectoop.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstddef>
+
